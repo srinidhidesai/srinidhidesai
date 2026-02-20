@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building real-world data analytics projects using Python, SQL, and Power BI  <br>👯 Open to collaborate on data analysis and dashboard projects  <br>🌱 Learning advanced analytics, machine learning, and business insights  <br>💬 Ask me about data cleaning, visualization, and dashboards  <br>⚡ Fun fact: I love turning raw data into meaningful insights
+🔭 Building  data analytics  and web projects using Python, SQL, and Power BI,react, JS  <br>👯 Open to collaborate on data analysis and dashboard projects  <br>🌱 Learning advanced analytics,  and business insights  <br>💬 Ask me about data cleaning, visualization, and dashboards  <br>⚡ Fun fact: I love turning raw data into meaningful insights
 
 
 ## 🌐 Socials:
